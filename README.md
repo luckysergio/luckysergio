@@ -1,45 +1,72 @@
 ![Lucky Sergio](img/github-header-image.png)
 
+# 👋 Hi there, I'm Lucky Sergio!
 
-## Languages
-<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-<img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" />
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+I'm a passionate developer focused on crafting seamless digital experiences across **mobile** and **web** platforms. I love building scalable systems and intuitive interfaces to solve real-world problems.
 
-## Framework
-<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />
-<img src="https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white" />
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+---
 
-### 🔭 I’m currently working on:
-A **Rental Management Information System** for **CV. Niaga Solusi Mandiri**, which includes:
+## 🧠 Tech Stack
 
-- 🖥️ A **Web Admin Dashboard** using **Laravel**  
-- 📱 A **Mobile App** for **Sales** and **Equipment Supervisors** built with **Flutter**
+### 💻 Languages
+<p>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/JSON-5E5C5C?style=for-the-badge&logo=json&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+</p>
 
-The system is designed to manage:
-- Equipment rental bookings
-- Inventory availability
-- Delivery and maintenance scheduling
-- Field documentation
-- Reporting and analytics for managers
+### 🚀 Frameworks & Tools
+<p>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/XAMPP-F37623?style=for-the-badge&logo=xampp&logoColor=white" />
+</p>
 
-### 🛠️ Tech Stack:
-- Backend: **Laravel**, **MySQL**
-- Mobile: **Flutter**
-- API: **RESTful API**
-- Notifications: **Firebase Cloud Messaging (FCM)**
+---
 
-### 🌱 I’m learning:
-- Flutter advanced state management (Bloc, Provider)
-- Laravel + Inertia.js (for future projects)
+## 🔭 Current Projects
 
-### 📫 How to reach me:
-- Email: luckysergio77@gmail.com
+### 🛠️ 1. Rental Management Information System – *CV. Niaga Solusi Mandiri*
+A comprehensive system to manage equipment rentals, featuring:
 
-- ![https://instagram.com/lcksr](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
+- 🖥️ Web Admin Dashboard (**Laravel**)
+- 📱 Mobile App for Sales & Field Teams (**Flutter**)
 
-Thanks for visiting! 🚀
+**Key Features:**
+- Equipment booking & rental tracking  
+- Inventory availability monitoring  
+- Delivery & maintenance scheduling  
+- Field documentation system  
+- Managerial reporting & analytics
+
+---
+
+### 🛠️ 2. Organizational Monitoring Dashboard – *MWCNU*
+A centralized dashboard built with **Laravel** to monitor and manage activities and structures of **MWCNU (Majelis Wakil Cabang Nahdlatul Ulama)**.
+
+**Key Modules:**
+- Organizational hierarchy tracking (PC, MWC, Ranting)
+- Activity & program management
+- Real-time monitoring & reports
+- Role-based access control
+
+---
+
+## 📚 Currently Exploring
+
+- 🚀 Advanced Flutter State Management: **BLoC**, **Provider**
+- 🌐 Full-stack Laravel with **Inertia.js + Vue.js**
+
+---
+
+## 📬 Get in Touch
+
+- 📧 Email: [luckysergio77@gmail.com](mailto:luckysergio77@gmail.com)  
+- 📸 Instagram: [@lcksr](https://instagram.com/lcksr)
+
+---
+
+Thanks for stopping by!  
+Let’s build something awesome together 🚀
