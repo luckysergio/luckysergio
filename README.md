@@ -1,5 +1,18 @@
-![Lucky Sergio](img/header.png)
+![Lucky Sergio](img/github-header-image.png)
 
+
+## Languages
+<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+<img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" />
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+
+## Framework
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />
+<img src="https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white" />
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
 
 ### 🔭 I’m currently working on:
 A **Rental Management Information System** for **CV. Niaga Solusi Mandiri**, which includes:
@@ -26,6 +39,7 @@ The system is designed to manage:
 
 ### 📫 How to reach me:
 - Email: luckysergio77@gmail.com
-<!-- - LinkedIn: [linkedin.com/in/yourname](https://linkedin.com/in/yourname) -->
+
+- ![https://instagram.com/lcksr](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
 
 Thanks for visiting! 🚀
