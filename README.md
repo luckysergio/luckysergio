@@ -1,4 +1,4 @@
-## Hello World! I'm Lucky Sergio 👋
+![Lucky Sergio](img/header.png)
 
 
 ### 🔭 I’m currently working on:
@@ -26,6 +26,6 @@ The system is designed to manage:
 
 ### 📫 How to reach me:
 - Email: luckysergio77@gmail.com
-- LinkedIn: [linkedin.com/in/yourname](https://linkedin.com/in/yourname)
+<!-- - LinkedIn: [linkedin.com/in/yourname](https://linkedin.com/in/yourname) -->
 
 Thanks for visiting! 🚀
