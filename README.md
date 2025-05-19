@@ -1,16 +1,31 @@
-## Hi there 👋
+## Hello World! I'm Lucky Sergio 👋
 
-<!--
-**luckysergio/luckysergio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### 🔭 I’m currently working on:
+A **Rental Management Information System** for **CV. Niaga Solusi Mandiri**, which includes:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🖥️ A **Web Admin Dashboard** using **Laravel**  
+- 📱 A **Mobile App** for **Sales** and **Equipment Supervisors** built with **Flutter**
+
+The system is designed to manage:
+- Equipment rental bookings
+- Inventory availability
+- Delivery and maintenance scheduling
+- Field documentation
+- Reporting and analytics for managers
+
+### 🛠️ Tech Stack:
+- Backend: **Laravel**, **MySQL**
+- Mobile: **Flutter**
+- API: **RESTful API**
+- Notifications: **Firebase Cloud Messaging (FCM)**
+
+### 🌱 I’m learning:
+- Flutter advanced state management (Bloc, Provider)
+- Laravel + Inertia.js (for future projects)
+
+### 📫 How to reach me:
+- Email: luckysergio77@gmail.com
+- LinkedIn: [linkedin.com/in/yourname](https://linkedin.com/in/yourname)
+
+Thanks for visiting! 🚀
