@@ -1,5 +1,3 @@
-![Lucky Sergio](img/github-header-image.png)
-
 # 👋 Hi there, I'm Lucky Sergio!
 
 I'm a passionate developer focused on crafting seamless digital experiences across **mobile** and **web** platforms. I love building scalable systems and intuitive interfaces to solve real-world problems.
