@@ -26,7 +26,26 @@ I'm a passionate developer focused on crafting seamless digital experiences acro
 
 ## 🔭 Current Projects
 
-### 🛠️ 1. Rental Management Information System – *CV. Niaga Solusi Mandiri*
+### 🛠️ 1. Penjualan Karoseri Dump Truck – *Internal Project*
+
+A full-featured web-based system for managing the sales of **Karoseri Dump Truck**, built with modern Laravel and Tailwind stack.
+
+**Key Modules:**
+- Product type management (Type, Jenis, Chassis)
+- Sales Order creation & tracking
+- Order Detail with dynamic pricing per item
+- Payment proof upload system (with image preview)
+- Dashboard with real-time statistics (Pusher integrated)
+- Role-based access: Admin & Sales
+- Reporting, filtering & exporting
+- SweetAlert2 confirmation, Toastr notifications, Vite bundling
+
+🛠 **Stack:** Laravel 12, Tailwind CSS, MySQL, Pusher, SweetAlert2, Toastr, Vite
+
+---
+
+### 🛠️ 2. Rental Management Information System – *CV. Niaga Solusi Mandiri*
+
 A comprehensive system to manage equipment rentals, featuring:
 
 - 🖥️ Web Admin Dashboard (**Laravel**)
@@ -41,7 +60,8 @@ A comprehensive system to manage equipment rentals, featuring:
 
 ---
 
-### 🛠️ 2. Organizational Monitoring Dashboard – *MWCNU*
+### 🛠️ 3. Organizational Monitoring Dashboard – *MWCNU*
+
 A centralized dashboard built with **Laravel** to monitor and manage activities and structures of **MWCNU (Majelis Wakil Cabang Nahdlatul Ulama)**.
 
 **Key Modules:**
