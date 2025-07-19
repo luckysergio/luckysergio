@@ -81,6 +81,21 @@ A centralized monitoring & management system for organizational structure and pr
 
 ---
 
+### 🛠️ 4. E-Commerce ATK – *CV. Jaya Copier*
+Sistem penjualan alat tulis kantor (ATK) online untuk memudahkan pelanggan melakukan pemesanan secara digital dengan interface modern.
+
+**Fitur:**
+- Registrasi & login user
+- Katalog produk berdasarkan jenis dan merk
+- Keranjang belanja & riwayat pesanan
+- Panel admin untuk pengelolaan produk, inventory, dan laporan
+- Dashboard status order: Baru, Proses, Siap, Selesai
+
+**Tech Stack:**  
+`Laravel 12` · `Tailwind CSS` · `MySQL` · `SweetAlert2` · `Vite`
+
+---
+
 ## 📚 Currently Exploring
 
 - 🚀 Advanced Flutter State Management: **BLoC**, **Provider**
